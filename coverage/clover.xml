@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1666637947071" clover="3.2.0">
-  <project timestamp="1666637947072" name="All files">
+<coverage generated="1666702087853" clover="3.2.0">
+  <project timestamp="1666702087853" name="All files">
     <metrics statements="68" coveredstatements="68" conditionals="12" coveredconditionals="12" methods="7" coveredmethods="7" elements="87" coveredelements="87" complexity="0" loc="68" ncloc="68" packages="1" files="1" classes="1"/>
     <file name="todo.ts" path="/home/origami/todo2-nuxt3/store/todo.ts">
       <metrics statements="68" coveredstatements="68" conditionals="12" coveredconditionals="12" methods="7" coveredmethods="7"/>
