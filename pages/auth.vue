@@ -8,6 +8,7 @@ const error = ref(null);
 const loginMode = ref(true);
 
 const authorize = async () => {
+    loading.value = true
     console.log("logging in ...");
 };
 </script>
